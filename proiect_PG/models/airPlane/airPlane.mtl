@@ -1,0 +1,37 @@
+# Blender 4.0.2 MTL File: 'hangarAircraft.blend'
+# www.blender.org
+
+newmtl Material.017
+Ns 52.941174
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Aircraft C.jpg
+map_Ks Aircraft S.jpg
+map_refl REF 1.jpg
+map_Bump Aircraft N.jpg
+
+newmtl a1.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Aircraft S.jpg
+map_Ks Aircraft S.jpg
+map_refl REF 1.jpg
+map_Bump Aircraft N.jpg
+
+newmtl aircraft_Glas.003
+Ns 203.031570
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.417702
+illum 1
+map_Kd REF 1.jpg
+map_refl REF 1.jpg
